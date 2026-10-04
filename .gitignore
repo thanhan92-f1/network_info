@@ -1,0 +1,8 @@
+.idea/
+*.pyc
+*.swp
+databases/
+env/
+.bash_history
+.cache/
+block_dump_*
